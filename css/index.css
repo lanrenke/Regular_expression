@@ -13,7 +13,6 @@
 	padding: 5px;
 }
 #reg_box * {
-	
 	float: left;
 }
 #reg_box #reg_btn {
@@ -23,6 +22,7 @@
 	vertical-align: middle;
 }
 #reg_box #reg_content {
+	width: 15%;
 	padding: 5px 10px;
 	display: block;
 }
