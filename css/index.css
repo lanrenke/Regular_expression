@@ -1,0 +1,18 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: '幼圆';
+}
+.content_head {
+	width: 99%;
+	margin: 0 auto;
+}
+#reg_box {
+	width: 90%;
+	margin: 0 auto;
+	padding: 5px;
+}
+#reg_box #reg_btn {
+	padding: 5px 10px;
+	font-size: 14px;
+}
